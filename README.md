@@ -35,27 +35,28 @@ This is a full-stack web application built using **Node.js**, **Express.js**, **
    ```
 2. Install Dependencies
 
-bash
+```bash
 Copy
 Edit
 npm install
-Set Up MongoDB
+```
 
-Ensure MongoDB is running locally or use MongoDB Atlas.
+3. Set Up MongoDB
 
-Update the MongoDB URI in connection.js.
+   Ensure MongoDB is running locally or use MongoDB Atlas.
 
-Run the Application
+   Update the MongoDB URI in connection.js.
 
-bash
+4. Run the Application
+
+```bash
 Copy
 Edit
 node index.js
+```
 App will usually run on http://localhost:3000
 
-🖼️ Screenshots
-Add UI screenshots here if available, especially to showcase Bootstrap integration.
-
+---
 ✍️ Author
 Aadil Ansari
 GitHub: aadil-ansari-rd
