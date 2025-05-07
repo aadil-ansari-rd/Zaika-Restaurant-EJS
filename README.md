@@ -68,9 +68,5 @@ GitHub: [aadil-ansari-rd](https://github.com/aadil-ansari-rd)
 
 This project is for educational purposes only.
 
-```
-
-Let me know if you're using a specific template engine (like EJS, Pug, or Handlebars), and I’ll tailor the README further.
-```
 
 
