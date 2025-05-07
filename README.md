@@ -60,7 +60,7 @@ App will usually run on http://localhost:3000
 ##✍️ Author
 
 Aadil Ansari
-GitHub: aadil-ansari-rd
+GitHub: [aadil-ansari-rd](https://github.com/aadil-ansari-rd)
 
 ---
 📄 License
