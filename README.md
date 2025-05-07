@@ -57,11 +57,20 @@ node index.js
 App will usually run on http://localhost:3000
 
 ---
-##✍️ Author
+## 🙋‍♂️ Author
 
-Aadil Ansari
+**Aadil Ansari**
 GitHub: [aadil-ansari-rd](https://github.com/aadil-ansari-rd)
 
 ---
-📄 License
-This project is developed for educational purposes only and is not intended for commercial use.
+
+## 📝 License
+
+This project is for educational purposes only.
+
+```
+
+Let me know if you're using a specific template engine (like EJS, Pug, or Handlebars), and I’ll tailor the README further.
+```
+
+
