@@ -36,8 +36,7 @@ This is a full-stack web application built using **Node.js**, **Express.js**, **
 2. Install Dependencies
 
 ```bash
-Copy
-Edit
+
 npm install
 ```
 
@@ -50,8 +49,7 @@ npm install
 4. Run the Application
 
 ```bash
-Copy
-Edit
+
 node index.js
 ```
 App will usually run on http://localhost:3000
