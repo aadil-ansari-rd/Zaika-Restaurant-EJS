@@ -26,35 +26,6 @@ This is a full-stack web application built using **Node.js**, **Express.js**, **
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/aadil-ansari-rd/your-repo-name.git
-   cd your-repo-name
-   ```
-2. Install Dependencies
-
-```bash
-
-npm install
-```
-
-3. Set Up MongoDB
-
-   Ensure MongoDB is running locally or use MongoDB Atlas.
-
-   Update the MongoDB URI in connection.js.
-
-4. Run the Application
-
-```bash
-
-node index.js
-```
-App will usually run on http://localhost:3000
-
----
 ## 🙋‍♂️ Author
 
 **Aadil Ansari**
